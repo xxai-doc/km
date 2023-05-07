@@ -7,3 +7,4 @@
 * [លេខកូដខាងមុខ](https://github.com/xxai-art/web)
 * [កញ្ចប់ភាសាសម្រាប់គេហទំព័រទាំងមូល](https://github.com/xxai-art/web/tree/main/i18n)
 * [កញ្ចប់ភាសាសម្រាប់ម៉ូឌុលចូល](https://github.com/wacpkg/user/tree/main/ui.i18n)
+* [គេហទំព័រ ឯកសារពហុភាសា](https://github.com/xxai-doc)
