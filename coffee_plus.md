@@ -2,13 +2,13 @@
 
 [@w5/coffee_plus](http://npmjs.com/@w5/coffee_plus) បន្ថែមលក្ខណៈពិសេសមួយចំនួននៅលើមូលដ្ឋាននៃវាក្យសម្ព័ន្ធ coffeescript សូមមើល [coffee_plus](./coffee_plus.md) ។
 
-* ប្រកាសអថេរ
+## ប្រកាសអថេរ
 
 ```
 + var1, var2
 ```
 
-* ស្លាកប្រកាស
+## ស្លាកប្រកាស
 
 `:$` គឺសម្រាប់ប្រើជាមួយ [svelte](https://svelte.dev/docs#component-format-script-3-$-marks-a-statement-as-reactive) ។
 
@@ -90,7 +90,7 @@ $ : (func = function() {
 });
 ```
 
-* ការនាំចូលរហ័ស
+## ការនាំចូលរហ័ស
 
 ```
 > zx/globals:
